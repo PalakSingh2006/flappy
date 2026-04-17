@@ -10,6 +10,7 @@ requirements = python3,pygame
 
 orientation = portrait
 fullscreen = 1
+version = 1.0.0
 
 [buildozer]
 log_level = 2
